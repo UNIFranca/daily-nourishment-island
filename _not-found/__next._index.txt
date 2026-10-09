@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[3731,[],""]
+3:I[7135,[],""]
+:HL["/daily-nourishment-island/_next/static/css/2639f153be19e42a.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/daily-nourishment-island/_next/static/css/2639f153be19e42a.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Xi34sQM9XAHkchXj6wlKu"}
