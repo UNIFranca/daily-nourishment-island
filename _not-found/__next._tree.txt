@@ -1,2 +1,2 @@
-:HL["/daily-nourishment-island/_next/static/chunks/0zov7b.ta23zc.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"zdzRmTeseMn4z0hESBwwU"}
+:HL["/daily-nourishment-island/_next/static/chunks/12ca~840idj9x.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ChoRYT5Oe6C6sETPkG9Ut"}
